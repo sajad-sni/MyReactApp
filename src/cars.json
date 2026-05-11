@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "2023 Lexus RX",
+    "subtitle": "350H HYBRID AWD |LEATHER | SUNROOF | CARPLAY",
+    "image": "./src/images/2023 Lexus RX.png",
+    "price": "$53,573",
+    "priceNote": "+ taxes & fees",
+    "location": "Ottawa, ON · Dealer",
+    "specs": {
+      "mileage": "52,277 km",
+      "transmission": "Automatic",
+      "engine": "2.0L TSI Turbo",
+      "drivetrain": "AWD 4MOTION",
+      "fuelType": "Gasoline",
+      "bodyStyle": "SUV · 4 Doors"
+    }
+  },
+  {
+    "id": 2,
+    "title": "2026 Volkswagen Atlas",
+    "subtitle": "Highline 4MOTION",
+    "image": "./src/images/2026 Volkswagen Atlas.png",
+    "price": "$63,234",
+    "priceNote": "+ taxes & fees",
+    "location": "Mississauga, ON · Dealer",
+    "specs": {
+      "mileage": "90,000 km",
+      "transmission": "CVT Auto",
+      "engine": "2.5L Hybrid",
+      "drivetrain": "AWD",
+      "fuelType": "Hybrid",
+      "bodyStyle": "SUV · 4 Doors"
+    }
+  },
+  {
+    "id": 3,
+    "title": "2016 Mercedes-Benz CLA",
+    "subtitle": "AMG/CLA 45 4MATIC | Luxury | Power | Stunning Red",
+    "image": "./src//images/2016 Mercedes-Benz CLA.png",
+    "price": "$ 24,997",
+    "priceNote": "+ taxes & fees",
+    "location": "Brampton, ON · Dealer",
+    "specs": {
+      "mileage": "38,100 km",
+      "transmission": "6-Speed Manual",
+      "engine": "1.5L Turbo",
+      "drivetrain": "FWD",
+      "fuelType": "Gasoline",
+      "bodyStyle": "Sedan · 4 Doors"
+    }
+  }
+]
